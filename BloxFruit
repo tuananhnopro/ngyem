@@ -310,7 +310,7 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "MEOBEL TẶNG HOA HUB",
+    Title = "TUAN EM HUB",
     SubTitle = "Blox Fruit",
     TabWidth = 160,
     Theme = "Dark",
@@ -9321,7 +9321,7 @@ spawn(function()
     end
 end);
 v14:Notify({
-    Title = "MEOBEL TẶNG HOA HUB",
+    Title = "TUẤN EM HUB",
     Content = "DOWNLOAD DONE",
     Duration = 10
 });
