@@ -2774,7 +2774,7 @@ spawn(function()
                                     AutoHaki();
                                     EquipTool(SelectWeapon);
                                     Tween(v1433.HumanoidRootPart.CFrame * Pos);
-                                    v1433.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                    v1433.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                     v1433.HumanoidRootPart.Transparency = 1;
                                     v1433.Humanoid.JumpPower = 0;
                                     v1433.Humanoid.WalkSpeed = 0;
@@ -2827,7 +2827,7 @@ spawn(function()
                                     AutoHaki();
                                     EquipTool(SelectWeapon);
                                     Tween(v839.HumanoidRootPart.CFrame * Pos);
-                                    v839.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                    v839.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                     v839.HumanoidRootPart.Transparency = 1;
                                     v839.Humanoid.JumpPower = 0;
                                     v839.Humanoid.WalkSpeed = 0;
@@ -2868,7 +2868,7 @@ spawn(function()
                                     AutoHaki();
                                     EquipTool(SelectWeapon);
                                     v1031.HumanoidRootPart.CanCollide = false;
-                                    v1031.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                    v1031.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                     Tween(v1031.HumanoidRootPart.CFrame * Pos);
                                 until (v1031.Humanoid.Health <= 0) or not v1031.Parent or not _G.CastleRaid
                             end
@@ -3069,7 +3069,7 @@ spawn(function()
                                     bringmob = true;
                                     EquipTool(SelectWeapon);
                                     Tween(v843.HumanoidRootPart.CFrame * Pos);
-                                    v843.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                    v843.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                     v843.HumanoidRootPart.Transparency = 1;
                                     v843.Humanoid.JumpPower = 0;
                                     v843.Humanoid.WalkSpeed = 0;
@@ -3143,7 +3143,7 @@ if Sea3 then
                                                 bringmob = true;
                                                 EquipTool(SelectWeapon);
                                                 Tween(v1662.HumanoidRootPart.CFrame * Pos);
-                                                v1662.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                                v1662.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                                 v1662.HumanoidRootPart.Transparency = 1;
                                                 v1662.Humanoid.JumpPower = 0;
                                                 v1662.Humanoid.WalkSpeed = 0;
@@ -3184,7 +3184,7 @@ if Sea3 then
                                         bringmob = true;
                                         EquipTool(SelectWeapon);
                                         Tween(v1437.HumanoidRootPart.CFrame * Pos);
-                                        v1437.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                        v1437.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                         v1437.HumanoidRootPart.Transparency = 1;
                                         v1437.Humanoid.JumpPower = 0;
                                         v1437.Humanoid.WalkSpeed = 0;
@@ -3302,7 +3302,7 @@ if Sea3 then
                                         EquipTool(SelectWeapon);
                                         v1439.HumanoidRootPart.CanCollide = false;
                                         v1439.Humanoid.WalkSpeed = 0;
-                                        v1439.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                        v1439.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                         Tween(v1439.HumanoidRootPart.CFrame * Pos);
                                         AttackNoCoolDown();
                                     until not _G.CakePrince or not v1439.Parent or (v1439.Humanoid.Health <= 0)
@@ -3324,7 +3324,7 @@ if Sea3 then
                                             v1755.HumanoidRootPart.CanCollide = false;
                                             v1755.Humanoid.WalkSpeed = 0;
                                             v1755.Head.CanCollide = false;
-                                            v1755.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                            v1755.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                             FarmPos = v1755.HumanoidRootPart.CFrame;
                                             MonFarm = v1755.Name;
                                             Tween(v1755.HumanoidRootPart.CFrame * Pos);
@@ -3368,7 +3368,7 @@ if Sea3 then
                                         EquipTool(SelectWeapon);
                                         v1441.HumanoidRootPart.CanCollide = false;
                                         v1441.Humanoid.WalkSpeed = 0;
-                                        v1441.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                        v1441.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                         Tween(v1441.HumanoidRootPart.CFrame * Pos);
                                         AttackNoCoolDown();
                                     until not _G.DoughKing or not v1441.Parent or (v1441.Humanoid.Health <= 0)
@@ -3431,7 +3431,7 @@ if Sea2 then
                                         bringmob = true;
                                         EquipTool(SelectWeapon);
                                         Tween(v1443.HumanoidRootPart.CFrame * Pos);
-                                        v1443.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                        v1443.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                         v1443.HumanoidRootPart.Transparency = 1;
                                         v1443.Humanoid.JumpPower = 0;
                                         v1443.Humanoid.WalkSpeed = 0;
@@ -3534,7 +3534,7 @@ spawn(function()
                                     EquipTool(SelectWeapon);
                                     v1035.HumanoidRootPart.CanCollide = false;
                                     v1035.Humanoid.WalkSpeed = 0;
-                                    v1035.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                    v1035.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                     Tween(v1035.HumanoidRootPart.CFrame * Pos);
                                     sethiddenproperty(game:GetService("Players").LocalPlayer, "SimulationRadius", math.huge);
                                 until not _G.AutoBoss or not v1035.Parent or (v1035.Humanoid.Health <= 0)
@@ -3622,7 +3622,7 @@ spawn(function()
                                     bringmob = true;
                                     EquipTool(SelectWeapon);
                                     Tween(v1037.HumanoidRootPart.CFrame * Pos);
-                                    v1037.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                    v1037.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                     v1037.HumanoidRootPart.Transparency = 1;
                                     v1037.Humanoid.JumpPower = 0;
                                     v1037.Humanoid.WalkSpeed = 0;
@@ -4255,7 +4255,7 @@ if Sea3 then
                                         EquipTool(SelectWeapon);
                                         v1445.HumanoidRootPart.CanCollide = false;
                                         v1445.Humanoid.WalkSpeed = 0;
-                                        v1445.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                        v1445.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                         Tween(v1445.HumanoidRootPart.CFrame * Pos);
                                     until not _G.AutoTerrorshark or not v1445.Parent or (v1445.Humanoid.Health <= 0)
                                 end
@@ -4293,7 +4293,7 @@ if Sea3 then
                                         EquipTool(SelectWeapon);
                                         v1447.HumanoidRootPart.CanCollide = false;
                                         v1447.Humanoid.WalkSpeed = 0;
-                                        v1447.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                        v1447.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                         Tween(v1447.HumanoidRootPart.CFrame * Pos);
                                     until not _G.farmpiranya or not v1447.Parent or (v1447.Humanoid.Health <= 0)
                                 end
@@ -4331,7 +4331,7 @@ if Sea3 then
                                         EquipTool(SelectWeapon);
                                         v1449.HumanoidRootPart.CanCollide = false;
                                         v1449.Humanoid.WalkSpeed = 0;
-                                        v1449.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                        v1449.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                         Tween(v1449.HumanoidRootPart.CFrame * Pos);
                                         game.Players.LocalPlayer.Character.Humanoid.Sit = false;
                                     until not _G.AutoShark or not v1449.Parent or (v1449.Humanoid.Health <= 0)
@@ -4373,7 +4373,7 @@ if Sea3 then
                                         EquipTool(SelectWeapon);
                                         v1451.HumanoidRootPart.CanCollide = false;
                                         v1451.Humanoid.WalkSpeed = 0;
-                                        v1451.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                        v1451.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                         Tween(v1451.HumanoidRootPart.CFrame * Pos);
                                         game.Players.LocalPlayer.Character.Humanoid.Sit = false;
                                     until not _G.AutoFishCrew or not v1451.Parent or (v1451.Humanoid.Health <= 0)
@@ -4600,7 +4600,7 @@ if Sea3 then
                                                 Tween2(v1664.HumanoidRootPart.CFrame * Pos);
                                                 v1664.Humanoid.WalkSpeed = 0;
                                                 v1664.HumanoidRootPart.CanCollide = false;
-                                                v1664.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                                v1664.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                             until (_G.AutoElite == false) or (v1664.Humanoid.Health <= 0) or not v1664.Parent
                                         end
                                     end
@@ -4828,7 +4828,7 @@ spawn(function()
                                                 EquipTool(SelectWeapon);
                                                 v1800.HumanoidRootPart.CanCollide = false;
                                                 v1800.Humanoid.WalkSpeed = 0;
-                                                v1800.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                                v1800.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                                 Tween(v1800.HumanoidRootPart.CFrame * Pos);
                                                 AttackNoCoolDown();
                                             until (v1800.Humanoid.Health <= 0) or not _G.Auto_Saber
@@ -4855,7 +4855,7 @@ spawn(function()
                                     task.wait(_G.Fast_Delay);
                                     EquipTool(SelectWeapon);
                                     Tween(v1461.HumanoidRootPart.CFrame * Pos);
-                                    v1461.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                    v1461.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                     v1461.HumanoidRootPart.Transparency = 1;
                                     v1461.Humanoid.JumpPower = 0;
                                     v1461.Humanoid.WalkSpeed = 0;
@@ -4901,7 +4901,7 @@ spawn(function()
                                     EquipTool(SelectWeapon);
                                     v1043.HumanoidRootPart.CanCollide = false;
                                     v1043.Humanoid.WalkSpeed = 0;
-                                    v1043.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1043.HumanoidRootPart.Size = Vector3.new(110 , 110 , 110);
                                     Tween(v1043.HumanoidRootPart.CFrame * Pos);
                                     AttackNoCoolDown();
                                 until not _G.Auto_PoleV1 or not v1043.Parent or (v1043.Humanoid.Health <= 0)
@@ -4943,7 +4943,7 @@ spawn(function()
                                     EquipTool(SelectWeapon);
                                     v1045.HumanoidRootPart.CanCollide = false;
                                     v1045.Humanoid.WalkSpeed = 0;
-                                    v1045.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1045.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                     Tween(v1045.HumanoidRootPart.CFrame * Pos);
                                     AttackNoCoolDown();
                                 until not _G.Auto_Saw or not v1045.Parent or (v1045.Humanoid.Health <= 0)
@@ -4985,7 +4985,7 @@ spawn(function()
                                     EquipTool(SelectWeapon);
                                     v1047.HumanoidRootPart.CanCollide = false;
                                     v1047.Humanoid.WalkSpeed = 0;
-                                    v1047.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1047.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                     Tween(v1047.HumanoidRootPart.CFrame * Pos);
                                     AttackNoCoolDown();
                                 until not _G.Auto_Warden or not v1047.Parent or (v1047.Humanoid.Health <= 0)
@@ -5025,7 +5025,7 @@ if Sea3 then
                                     AttackNoCoolDown();
                                     AutoHaki();
                                     EquipTool(SelectWeapon);
-                                    v1463.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                    v1463.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                     Tween(v1463.HumanoidRootPart.CFrame * Pos);
                                     v1463.HumanoidRootPart.Transparency = 1;
                                     sethiddenproperty(game.Players.LocalPlayer, "SimulationRadius", math.huge);
@@ -5105,7 +5105,7 @@ if Sea3 then
                                     EquipTool(SelectWeapon);
                                 end
                                 FarmPos = v1341.HumanoidRootPart.CFrame;
-                                v1341.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                v1341.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                 v1341.Humanoid.JumpPower = 0;
                                 v1341.Humanoid.WalkSpeed = 0;
                                 v1341.HumanoidRootPart.CanCollide = false;
@@ -5187,7 +5187,7 @@ spawn(function()
                                     EquipTool(SelectWeapon);
                                     v1049.HumanoidRootPart.CanCollide = false;
                                     v1049.Humanoid.WalkSpeed = 0;
-                                    v1049.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1049.HumanoidRootPart.Size = Vector3.new(110 ,110 ,110);
                                     Tween(v1049.HumanoidRootPart.CFrame * Pos);
                                     AttackNoCoolDown();
                                 until not _G.Auto_Canvander or not v1049.Parent or (v1049.Humanoid.Health <= 0)
@@ -5228,7 +5228,7 @@ spawn(function()
                                         pcall(function()
                                             EquipTool(SelectWeapon);
                                             AutoHaki();
-                                            v1560.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                            v1560.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                             Tween(v1560.HumanoidRootPart.CFrame * Pos);
                                             v1560.HumanoidRootPart.CanCollide = false;
                                             AttackNoCoolDown();
@@ -5263,7 +5263,7 @@ spawn(function()
                                             EquipTool(SelectWeapon);
                                             AutoHaki();
                                             v1666.HumanoidRootPart.CanCollide = false;
-                                            v1666.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                            v1666.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                             Tween(v1666.HumanoidRootPart.CFrame * Pos);
                                             v1666.HumanoidRootPart.CanCollide = false;
                                             v1666.HumanoidRootPart.CFrame = OldCFrameElephant;
@@ -5367,7 +5367,7 @@ spawn(function()
                                     Tween(v1564.HumanoidRootPart.CFrame * Pos);
                                     v1564.HumanoidRootPart.CanCollide = false;
                                     v1564.HumanoidRootPart.CFrame = OldCFrameRainbow;
-                                    v1564.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1564.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                     AttackNoCoolDown();
                                 until not _G.Auto_RainbowHaki or (v1564.Humanoid.Health <= 0) or not v1564.Parent or not game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible
                             end
@@ -5386,7 +5386,7 @@ spawn(function()
                                     Tween(v1670.HumanoidRootPart.CFrame * Pos);
                                     v1670.HumanoidRootPart.CanCollide = false;
                                     v1670.HumanoidRootPart.CFrame = OldCFrameRainbow;
-                                    v1670.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1670.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                     AttackNoCoolDown();
                                 until not _G.Auto_RainbowHaki or (v1670.Humanoid.Health <= 0) or not v1670.Parent or not game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible
                             end
@@ -5404,7 +5404,7 @@ spawn(function()
                                     EquipTool(SelectWeapon);
                                     Tween(v1763.HumanoidRootPart.CFrame * Pos);
                                     v1763.HumanoidRootPart.CanCollide = false;
-                                    v1763.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1763.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                     v1763.HumanoidRootPart.CFrame = OldCFrameRainbow;
                                     AttackNoCoolDown();
                                 until not _G.Auto_RainbowHaki or (v1763.Humanoid.Health <= 0) or not v1763.Parent or not game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible
@@ -5423,7 +5423,7 @@ spawn(function()
                                     EquipTool(SelectWeapon);
                                     Tween(v1775.HumanoidRootPart.CFrame * Pos);
                                     v1775.HumanoidRootPart.CanCollide = false;
-                                    v1775.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1775.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                     v1775.HumanoidRootPart.CFrame = OldCFrameRainbow;
                                     AttackNoCoolDown();
                                 until not _G.Auto_RainbowHaki or (v1775.Humanoid.Health <= 0) or not v1775.Parent or not game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible
@@ -5442,7 +5442,7 @@ spawn(function()
                                     EquipTool(SelectWeapon);
                                     Tween(v1803.HumanoidRootPart.CFrame * Pos);
                                     v1803.HumanoidRootPart.CanCollide = false;
-                                    v1803.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1803.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                     v1803.HumanoidRootPart.CFrame = OldCFrameRainbow;
                                     AttackNoCoolDown();
                                 until not _G.Auto_RainbowHaki or (v1803.Humanoid.Health <= 0) or not v1803.Parent or not game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible
@@ -5554,7 +5554,7 @@ spawn(function()
                                         if (v1805:FindFirstChild("HumanoidRootPart") and v1805:FindFirstChild("Humanoid") and (v1805.Humanoid.Health > 0)) then
                                             if (v1805.Name == "Living Zombie") then
                                                 EquipTool(SelectWeapon);
-                                                v1805.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                                v1805.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                                 v1805.HumanoidRootPart.Transparency = 1;
                                                 v1805.Humanoid.JumpPower = 0;
                                                 v1805.Humanoid.WalkSpeed = 0;
@@ -5609,7 +5609,7 @@ spawn(function()
                                     EquipTool(SelectWeapon);
                                     v1051.HumanoidRootPart.CanCollide = false;
                                     v1051.Humanoid.WalkSpeed = 0;
-                                    v1051.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1051.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                     Tween(v1051.HumanoidRootPart.CFrame * Pos);
                                     AttackNoCoolDown();
                                 until not _G.Auto_Buddy or not v1051.Parent or (v1051.Humanoid.Health <= 0)
@@ -5729,7 +5729,7 @@ spawn(function()
                                     if (v1843.Humanoid.Health > 0) then
                                         EquipTool(Sword);
                                         Tween(v1843.HumanoidRootPart.CFrame * pos);
-                                        v1843.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                        v1843.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                         v1843.HumanoidRootPart.Transparency = 1;
                                         v1843.Humanoid.JumpPower = 0;
                                         v1843.Humanoid.WalkSpeed = 0;
@@ -5808,7 +5808,7 @@ spawn(function()
                 if (Auto_Quest_Yama_2 and v732:FindFirstChild("HazeESP") and ((v732.HumanoidRootPart.Position - FarmPossEsp.Position).magnitude <= 300)) then
                     v732.HumanoidRootPart.CFrame = FarmPossEsp;
                     v732.HumanoidRootPart.CanCollide = false;
-                    v732.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                    v732.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                     if not v732.HumanoidRootPart:FindFirstChild("BodyVelocity") then
                         local v1058 = Instance.new("BodyVelocity", v732.HumanoidRootPart);
                         v1058.MaxForce = Vector3.new(1, 1, 1) * math.huge ;
@@ -5832,7 +5832,7 @@ spawn(function()
                             else
                                 EquipTool(Sword);
                                 Tween(v866.HumanoidRootPart.CFrame * Pos);
-                                v866.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                v866.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                 v866.HumanoidRootPart.Transparency = 1;
                                 v866.Humanoid.JumpPower = 0;
                                 v866.Humanoid.WalkSpeed = 0;
@@ -5878,7 +5878,7 @@ spawn(function()
                                             wait();
                                             EquipTool(Sword);
                                             Tween(v1642.HumanoidRootPart.CFrame * Pos);
-                                            v1642.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                            v1642.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                             v1642.HumanoidRootPart.Transparency = 1;
                                             v1642.Humanoid.JumpPower = 0;
                                             v1642.Humanoid.WalkSpeed = 0;
@@ -5955,7 +5955,7 @@ spawn(function()
                                     wait();
                                     EquipTool(Sword);
                                     Tween(v1062.HumanoidRootPart.CFrame * Pos);
-                                    v1062.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                    v1062.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                     v1062.HumanoidRootPart.Transparency = 1;
                                     v1062.Humanoid.JumpPower = 0;
                                     v1062.Humanoid.WalkSpeed = 0;
@@ -5990,7 +5990,7 @@ spawn(function()
                                         wait();
                                         EquipTool(Sword);
                                         Tween(v1465.HumanoidRootPart.CFrame * Pos);
-                                        v1465.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                        v1465.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                         v1465.HumanoidRootPart.Transparency = 1;
                                         v1465.Humanoid.JumpPower = 0;
                                         v1465.Humanoid.WalkSpeed = 0;
@@ -6019,7 +6019,7 @@ spawn(function()
                                             wait();
                                             EquipTool(Sword);
                                             Tween(v1651.HumanoidRootPart.CFrame * Pos);
-                                            v1651.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                            v1651.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                             v1651.HumanoidRootPart.Transparency = 1;
                                             v1651.Humanoid.JumpPower = 0;
                                             v1651.Humanoid.WalkSpeed = 0;
@@ -6082,7 +6082,7 @@ if Sea2 then
                                 EquipTool(SelectWeapon);
                                 AutoHaki();
                                 Tween(v1345.HumanoidRootPart.CFrame * Pos);
-                                v1345.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                v1345.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                 v1345.HumanoidRootPart.Transparency = 1;
                                 v1345.Humanoid.JumpPower = 0;
                                 v1345.Humanoid.WalkSpeed = 0;
@@ -6124,7 +6124,7 @@ spawn(function()
                                     AutoHaki();
                                     EquipTool(SelectWeapon);
                                     v1064.HumanoidRootPart.CanCollide = false;
-                                    v1064.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                    v1064.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                     Tween(v1064.HumanoidRootPart.CFrame * Pos);
                                     AttackNoCoolDown();
                                 end);
@@ -6165,7 +6165,7 @@ spawn(function()
                                 EquipTool(SelectWeapon);
                                 AutoHaki();
                                 v1467.HumanoidRootPart.CanCollide = false;
-                                v1467.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                v1467.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                 FarmPos = v1467.HumanoidRootPart.CFrame;
                                 MonFarm = v1467.Name;
                                 Tween(v1467.HumanoidRootPart.CFrame * Pos);
@@ -6268,7 +6268,7 @@ if Sea2 then
                                                     EquipTool(SelectWeapon);
                                                     Tween(v1835.HumanoidRootPart.CFrame * Pos);
                                                     v1835.HumanoidRootPart.CanCollide = false;
-                                                    v1835.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                                    v1835.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                                     AttackNoCoolDown();
                                                     FarmPos = v1835.HumanoidRootPart.CFrame;
                                                     MonFarm = v1835.Name;
@@ -6400,7 +6400,7 @@ spawn(function()
                             if ((v734.HumanoidRootPart.Position - FarmPos.Position).Magnitude <= 1000000000) then
                                 v734.Head.CanCollide = false;
                                 v734.HumanoidRootPart.CanCollide = false;
-                                v734.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                v734.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                 v734.HumanoidRootPart.CFrame = FarmPos;
                                 if v734.Humanoid:FindFirstChild("Animator") then
                                     v734.Humanoid.Animator:Destroy();
@@ -6410,7 +6410,7 @@ spawn(function()
                         elseif (v734.Name == MonFarm) then
                             if ((v734.HumanoidRootPart.Position - FarmPos.Position).Magnitude <= 1000000000) then
                                 v734.HumanoidRootPart.CFrame = FarmPos;
-                                v734.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                v734.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                 v734.HumanoidRootPart.Transparency = 1;
                                 v734.Humanoid.JumpPower = 0;
                                 v734.Humanoid.WalkSpeed = 0;
@@ -6874,7 +6874,7 @@ spawn(function()
                                                 v1681.HumanoidRootPart.CanCollide = false;
                                                 v1681.Humanoid.WalkSpeed = 0;
                                                 v1681.Head.CanCollide = false;
-                                                v1681.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                                v1681.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                                 v1681.HumanoidRootPart.CFrame = OldCFrameSecond;
                                                 Tween(v1681.HumanoidRootPart.CFrame * Pos);
                                                 AttackNoCoolDown();
@@ -6927,7 +6927,7 @@ spawn(function()
                                         EquipTool(SelectWeapon);
                                         Tween(v1579.HumanoidRootPart.CFrame * Pos);
                                         v1579.HumanoidRootPart.CFrame = OldCFrameThird;
-                                        v1579.HumanoidRootPart.Size = Vector3.new(50, 50, 50);
+                                        v1579.HumanoidRootPart.Size = Vector3.new(110, 110, 110);
                                         v1579.HumanoidRootPart.CanCollide = false;
                                         v1579.Humanoid.WalkSpeed = 0;
                                         AttackNoCoolDown();
@@ -8024,7 +8024,7 @@ spawn(function()
                                     EquipTool(SelectWeapon);
                                     Tween(v1469.HumanoidRootPart.CFrame * Pos);
                                     v1469.HumanoidRootPart.CanCollide = false;
-                                    v1469.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                    v1469.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                 until not v1469.Parent or (v1469.Humanoid.Health <= 0) or (Auto_Law == false)
                             end
                         end
@@ -8237,7 +8237,7 @@ spawn(function()
                                 AutoHaki();
                                 Tween(v871.Character.HumanoidRootPart.CFrame * CFrame.new(0, 0, 5));
                                 v871.Character.HumanoidRootPart.CanCollide = false;
-                                v871.Character.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                v871.Character.HumanoidRootPart.Size = Vector3.new(120, 120, 120);
                                 AttackNoCoolDown();
                             until not _G.AutoKillTrial or not v871.Parent or (v871.Character.Humanoid.Health <= 0)
                         end
